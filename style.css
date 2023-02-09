@@ -1,0 +1,83 @@
+.header{
+    background-color: #2874F0;
+    width: 1090px;
+    margin-left: -7px;
+    margin-top: -7px;
+    position: absolute;
+    height: 60px;
+}
+.header #fk{
+    color: #FFFFFF;
+    margin-top: 7px;
+    margin-left: 186px;
+}
+.header #fkp{
+    font-size: 12px;
+    margin-top: -21px;
+    margin-left: 186px;
+}
+.header #fkp img{
+    height: 12px;
+}
+#s{
+    margin-left: 285px;
+    margin-top: -65px;
+    position: absolute;
+    height: 37px;
+    width: 295px;
+    padding: 15px;
+}
+#btn{
+    background-image: urL("https://www.citypng.com/public/uploads/preview/download-blue-search-icon-button-png-11640084027s0fkuhz2lb.png");
+    width: 30px;
+    cursor: pointer;
+    line-height:inherit;
+    background-position: 5px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-color: transparent;
+    border: none;
+    margin-left: 545px;
+    margin-top: -55px;
+    position: absolute;
+}
+#l{
+    background-color: white;
+    color: #2874F0;
+    position: absolute;
+    margin-left: 600px;
+    margin-top: -62px;
+    height: 32px;
+    width: 100px;
+    border: none;
+    font-weight: bold;
+}
+#b{
+    margin-left: 735px;
+    position: absolute;
+    margin-top: -57px;
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+}
+#m{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -57px;
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+}
+.V3C5bO{
+    height: 22px;
+    width: 22px;
+    margin-left: 990px;
+    position: absolute;
+    margin-top: -57px;
+}
+.cart{
+    margin-left: 1022px;
+    margin-top: -56px;
+    position: absolute;
+    color: white;
+}
